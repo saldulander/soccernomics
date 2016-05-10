@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  country: MyText
+  team: MyText
+  age: 1
+  salary: 1
+
+two:
+  name: MyString
+  country: MyText
+  team: MyText
+  age: 1
+  salary: 1
